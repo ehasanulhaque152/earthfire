@@ -1,0 +1,8 @@
+{
+  "name": "california_public_nasa_viirs_sample_2023_07_12",
+  "bbox": [-125.0, 32.0, -114.0, 42.0],
+  "start_date": "2023-07-12",
+  "end_date": "2023-07-12",
+  "grid_km": 10,
+  "sources": ["VIIRS_SNPP_NRT"]
+}
