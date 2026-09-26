@@ -1,0 +1,22 @@
+{
+  "area": "california_public_nasa_viirs_sample_2023_07_12",
+  "bbox": [
+    -125.0,
+    32.0,
+    -114.0,
+    42.0
+  ],
+  "period": [
+    "2023-07-12",
+    "2023-07-12"
+  ],
+  "grid_km": 10,
+  "raw_files": 1,
+  "normalized_records": 73,
+  "records_by_source": {
+    "VIIRS_SNPP_NRT": 73
+  },
+  "paired_sensor_daynight_bins": 0,
+  "provisional_viirs_to_modis_factor": null,
+  "status": "hotspot-only provisional; observation coverage and clear-sky masks not yet included"
+}

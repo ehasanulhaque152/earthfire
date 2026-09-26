@@ -1,0 +1,3 @@
+date_utc,sensor,daynight,active_cells,detections,coverage
+2023-07-12,VIIRS,D,7,17,unknown_hotspots_only
+2023-07-12,VIIRS,N,38,56,unknown_hotspots_only
